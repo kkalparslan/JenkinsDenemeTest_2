@@ -61,9 +61,6 @@ public class Jenkins_Test_1 {
         Thread.sleep(2000);
         driver.quit();
 
-
-
-
     }
 
 }

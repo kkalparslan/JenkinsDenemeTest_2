@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0eed803-1cc8-4ba2-95e8-142e10cbb544" name="Changes" comment="">
+    <list default="true" id="e0eed803-1cc8-4ba2-95e8-142e10cbb544" name="Changes" comment="new code added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/krafttech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/krafttech/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/krafttech/test/Jenkins_Test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/krafttech/test/Jenkins_Test_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,22 +33,39 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.krafttech.utilities" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.Jenkins_Test_1.jenkinsDenemeTest1">
+    <configuration name="Jenkins_Test_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsDenemeTest_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krafttech.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.krafttech.test" />
+      <option name="MAIN_CLASS_NAME" value="com.krafttech.test.Jenkins_Test_1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Jenkins_Test_1.jenkinsDenemeTest1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JenkinsDenemeTest_2" />
       <extension name="coverage">
@@ -72,6 +87,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Jenkins_Test_1.jenkinsDenemeTest1" />
+        <item itemvalue="TestNG.Jenkins_Test_1" />
       </list>
     </recent_temporary>
   </component>
@@ -84,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673520641819</updated>
     </task>
+    <task id="LOCAL-00001" summary="new code added">
+      <created>1673522239121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673522239121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new code added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new code added" />
   </component>
 </project>
