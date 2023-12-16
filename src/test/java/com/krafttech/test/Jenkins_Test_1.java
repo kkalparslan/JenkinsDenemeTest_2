@@ -52,8 +52,7 @@ public class Jenkins_Test_1 {
         WebElement login=driver.findElement(By.xpath("//button[@class='ant-btn ant-btn-teal ant-btn-block']"));
         login.click();
         Thread.sleep(2000);
-//
-//
+
         driver.findElement(By.xpath("//button[@class='ant-btn']")).click();
 //        Alert alert=driver.switchTo().alert();
 //        alert.accept();
@@ -61,7 +60,6 @@ public class Jenkins_Test_1 {
         driver.findElement(By.xpath("(//div[@class='randevu-turu-grup-article'])[3]")).click();
         Thread.sleep(2000);
         driver.quit();
-
     }
     @Step
     public static void allureDeneme() throws InterruptedException {
@@ -112,7 +110,5 @@ public class Jenkins_Test_1 {
         driver.findElement(By.xpath("(//div[@class='randevu-turu-grup-article'])[3]")).click();
         Thread.sleep(2000);
         driver.quit();
-
     }
-
 }
