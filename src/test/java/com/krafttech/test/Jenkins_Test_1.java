@@ -44,11 +44,11 @@ public class Jenkins_Test_1 {
 
         WebElement tc = driver.findElement(By.xpath("//input[@id='LoginForm_username']"));
         tc.click();
-        tc.sendKeys("15017265816");
+        tc.sendKeys("....");
         Thread.sleep(2000);
         WebElement psword=driver.findElement(By.xpath("//input[@id='LoginForm_password']"));
         psword.click();
-        psword.sendKeys("Qw098765");
+        psword.sendKeys("....");
         WebElement login=driver.findElement(By.xpath("//button[@class='ant-btn ant-btn-teal ant-btn-block']"));
         login.click();
         Thread.sleep(2000);
@@ -95,11 +95,11 @@ public class Jenkins_Test_1 {
 
         WebElement tc = driver.findElement(By.xpath("//input[@id='LoginForm_username']"));
         tc.click();
-        tc.sendKeys("15017265816");
+        tc.sendKeys("....");
         Thread.sleep(2000);
         WebElement psword=driver.findElement(By.xpath("//input[@id='LoginForm_password']"));
         psword.click();
-        psword.sendKeys("Qw098765");
+        psword.sendKeys("....");
         WebElement login=driver.findElement(By.xpath("//button[@class='ant-btn ant-btn-teal ant-btn-block']"));
         login.click();
         Thread.sleep(2000);
